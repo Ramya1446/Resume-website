@@ -1,0 +1,40 @@
+.hero{
+    background-color: #254336;
+}
+.title{
+    color: #DAD3BE;
+}
+.para{
+    font-size: 20px;
+}
+.little{
+    text-align: center;
+    margin-right: 50px;
+}
+.para2{
+    text-align: center;
+}
+.text{
+    font-size: 20px;
+}
+.title2{
+    font-size: 40px;
+}
+.image{
+    margin: 20px;
+    margin-left: 120px;
+    border-radius: 10%;
+    float:left;
+}
+.small-title{
+    text-align: center;
+}
+.small{
+    margin-bottom: 10px;
+}
+.big{
+    background-color: #DAD3BE;
+}
+.interest{
+    font-size: 40px;
+}
